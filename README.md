@@ -1,5 +1,3 @@
-# ecommerce-conversion-analysis
-
 # E-commerce Customer Behavior & Conversion Analysis
 
 **Status:** In Progress
@@ -31,7 +29,7 @@ How can an e-commerce business improve purchase conversions by understanding use
 4. Which customer segments represent the greatest conversion improvement opportunities?
 
 ## Project Roadmap
-- [ ] Define business objectives and KPIs
+- [x] Define business objectives and KPIs
 - [ ] Explore and validate the dataset
 - [ ] Transform data using SQL
 - [ ] Analyze customer behavior and conversion funnels
