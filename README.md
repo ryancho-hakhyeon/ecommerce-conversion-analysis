@@ -62,9 +62,9 @@ How can Google Merchandise Store identify opportunities to improve purchase conv
 5. Recommend data-driven business improvements.
 
 ## Project Focusing
-Main         | End-to-End E-commerce Conversion Analysis
-Extension A  | Conversion Funnel Optimization
-Extension B  | Marketing Channel Performance
+A. Main         | End-to-End E-commerce Conversion Analysis
+B. Extension A  | Conversion Funnel Optimization
+C. Extension B  | Marketing Channel Performance
 
 ## Primary KPIs
 - Total Sessions
