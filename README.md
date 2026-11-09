@@ -29,7 +29,7 @@ How can an e-commerce business improve purchase conversions by understanding use
 4. Which customer segments represent the greatest conversion improvement opportunities?
 
 ## Project Roadmap
-- [ ] Define business objectives and KPIs
+- [x] Define business objectives and KPIs
 - [ ] Explore and validate the dataset
 - [ ] Transform data using SQL
 - [ ] Analyze customer behavior and conversion funnels
@@ -41,3 +41,45 @@ How can an e-commerce business improve purchase conversions by understanding use
 
 ## Business Recommendations
 *To be added after analysis.*
+
+
+---
+
+
+# Step 1 — Business Problem & KPI Definition
+
+## Business Scenario
+Google Merchandise Store is an e-commerce website that sells Google-branded merchandise. This project uses anonymized GA4 event data to investigate website engagement, customer acquisition, purchase behavior, and conversion opportunities.
+
+## Business Problem
+How can Google Merchandise Store identify opportunities to improve purchase conversion performance and revenue through customer behavior analysis?
+
+## Project Objectives
+1. Understand website sessions and purchasing behavior.
+2. Compare conversion performance across user segments.
+3. Evaluate traffic acquisition channels.
+4. Identify drop-off points in the purchase funnel.
+5. Recommend data-driven business improvements.
+
+## Project Focusing
+Main         | End-to-End E-commerce Conversion Analysis
+Extension A  | Conversion Funnel Optimization
+Extension B  | Marketing Channel Performance
+
+## Primary KPIs
+- Total Sessions
+- Session Purchase Conversion Rate
+- Purchasing Users
+- Purchase Revenue
+- Average Order Value
+- Funnel Step Conversion Rates
+- Traffic Channel Conversion Rates
+
+## Analytical Approach
+Use BigQuery SQL to reconstruct sessions, calculate conversion metrics, and analyze the customer purchase journey. Use Python and a BI dashboard to communicate findings and business recommendations.
+
+## Data Limitations
+The dataset is anonymized and may contain missing or obfuscated values. Event completeness, session identification, traffic attribution, and revenue consistency will be validated before finalizing metric calculations.
+
+## Expected Outcome
+A set of actionable, evidence-based recommendations to prioritize opportunities for improving e-commerce conversion performance.
